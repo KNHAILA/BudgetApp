@@ -1,0 +1,6 @@
+![alt text](https://github.com/KNHAILA/BudgetApp/blob/master/images/p1.PNG?raw=true)
+![alt text](https://github.com/KNHAILA/BudgetApp/blob/master/images/p2.PNG?raw=true)
+![alt text](https://github.com/KNHAILA/BudgetApp/blob/master/images/p3.PNG?raw=true)
+![alt text](https://github.com/KNHAILA/BudgetApp/blob/master/images/p4.png?raw=true)
+![alt text](https://github.com/KNHAILA/BudgetApp/blob/master/images/p5.PNG?raw=true)
+![alt text](https://github.com/KNHAILA/BudgetApp/blob/master/images/p6.PNG?raw=true)
